@@ -1,0 +1,5 @@
+filtered/
+programming/
+
+*.csv
+.DS_Store
